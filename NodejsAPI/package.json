@@ -9,7 +9,7 @@
     "mongoose": "^5.4.19"
   },
   "devDependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "node": "^10.15.3",
     "nodemon": "^1.18.10"
   },
